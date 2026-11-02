@@ -1,0 +1,1 @@
+Final pool of implemented tasks from BenchTasksCollv3 (validated against the tasks/examples requirements: non-empty English docs/task.md and docs/agent_system_prompt.md; optional docs/user_system_prompt.md in English; evaluation/main.py present).
